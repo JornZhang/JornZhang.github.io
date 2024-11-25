@@ -12,6 +12,15 @@
 # Name of website
 title: Zifeng Zhang
 
+# Short description of your site
+description: Zifeng's website
+
+# url is the the website domain URL without a trailing slash
+url: "https://JornZhang.github.io"
+
+# baseurl should be an empty string
+baseurl: ""
+
 # Your name to show in the footer
 author: Zifeng Zhang
 
@@ -84,7 +93,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
