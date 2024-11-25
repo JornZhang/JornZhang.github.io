@@ -22,7 +22,7 @@ author: Zifeng Zhang
 navbar-links:
   About Me: "aboutme"
   Teaching: "teaching"
-  Research: "publications"
+  Research: "publications.md"
   CV: "CV_ZifengZhang.pdf"
 
 ################
