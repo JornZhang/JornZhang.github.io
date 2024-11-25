@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Zifeng Zhang
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Ph.D. student in the Department of Statistics at [Colorado State University](https://statistics.colostate.edu/), where I am very fortunate to be advised by Professors [Wen Zhou](https://wp.nyu.edu/rczw/) and Professor [Haonan Wang](https://www.stat.colostate.edu/~wanghn/). I am also honored to collaborate with Professor [Peng Ding](https://sites.google.com/site/pengdingpku/) and Professor [Fan Yang](https://ymsc.tsinghua.edu.cn/en/info/1031/2335.htm). Before joining CSU, I obtained a B.A. in Insurance ([School of Finance](https://finance.nankai.edu.cn/)) and an M.A.S. in Applied Statistics ([School of Statistics and Data Science](https://stat.nankai.edu.cn/)) from Nankai University in 2016 and 2018, respectively. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My research interests:
+* High-dimensional statistics  
+* Causal inference, interference, mediation analysis  
+* Network analysis, graphical modeling  
+* Tensor data analysis
