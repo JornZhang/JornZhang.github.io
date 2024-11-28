@@ -3,6 +3,8 @@ layout: page
 title: Teaching
 ---
 
+### [An R Shiny App for Hypothesis Test](https://zifeng-zhang.shinyapps.io/tstat_simu/)
+
 ### Stand-alone Instructor
 * **General Statistics (STAT201)** - _<span style="color: blue;">SM2020, SM2024</span>_
   * Undergraduate introduction to techniques in descriptive statistics and inference.
