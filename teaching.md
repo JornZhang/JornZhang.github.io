@@ -8,7 +8,7 @@ title: Teaching
 ### Stand-alone Instructor
 * **General Statistics (STAT201)** - _<span style="color: blue;">SM2020, SM2024</span>_
   * Undergraduate introduction to techniques in descriptive statistics and inference.
-* **Introduction to Applied Statistics (STAT301)** - _<span style="color: blue;">FA2021, SP2022, FA2022, SP2023, FA2023, SP2024, FA2024</span>_
+* **Introduction to Applied Statistics (STAT301)** - _<span style="color: blue;">FA2021, SP2022, FA2022, SP2023, FA2023, SP2024, FA2024, SP2025</span>_
   * Undergraduate introduction to techniques in descriptive statistics, inference, and regression.
 
 ### Recitation Instructor
@@ -25,5 +25,5 @@ title: Teaching
   * Graduate course for probability, random variables, distributions, expectations, generating functions, and limit theorems.
 * **Probability Theory (STAT720)** - _<span style="color: blue;">FA2022, FA2023, FA2024</span>_
   * Graduate course for set theory, measure theory, Lebesgue integral, and conditional expectation.
-* **Advanced Theory of Statistics (STAT730)** - _<span style="color: blue;">SP2023, SP2024</span>_
+* **Advanced Theory of Statistics (STAT730)** - _<span style="color: blue;">SP2023, SP2024, SP2025</span>_
   * Graduate course for U-statistics, Hajek projection, moment estimator, maximum-likelihood methods, concentration inequalities, empirical process, and statistical decision theory.
