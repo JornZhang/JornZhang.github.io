@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Research
----------------
+---
 
 ### [Google Scholar Page](https://scholar.google.com/citations?user=jC0z-4UAAAAJ&hl=en)
 
 ---
 
 My research focuses on developing statistical methodology and theory for problems involving complex dependence, high dimensionality, and structured information. Current themes include robust inference under random design, high-dimensional mediation and causal inference, and statistical learning methods that incorporate external knowledge.
+
+---
 
 ### Peer-Reviewed Publications
 
@@ -16,6 +18,8 @@ My research focuses on developing statistical methodology and theory for problem
 *Biometrika*, 112(1), asae054.
 [[Journal]](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae054/7825359)
 [[arXiv]](https://www.arxiv.org/abs/2410.05567)
+
+---
 
 ### Working Papers and Manuscripts
 
@@ -40,6 +44,8 @@ My research focuses on developing statistical methodology and theory for problem
 **Zifeng Zhang**, Lijun Wang, Zhiguang Huo, Peitao Wu, Yi Liu, Dacheng Liu, and Hongyu Zhao.
 **Enhancing Prognostic Accuracy in Idiopathic Pulmonary Fibrosis: A Novel Momentum Feature for Longitudinal Biomarker Analysis.**
 *Manuscript in preparation.*
+
+---
 
 ### Research in Progress
 
