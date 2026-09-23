@@ -27,19 +27,13 @@ My research focuses on developing statistical methodology and theory for problem
 **Two Routes to Validity: Why Nonstandard Standard Errors Are More Robust Than You Think.**
 *Manuscript in preparation.*
 
----
-
 **Zifeng Zhang**, Fan Yang, Peng Ding, and Wen Zhou.
 **High-Dimensional Mediation with Treatment--Mediator Interactions: Signal-Induced Ill-Conditioning and Inference.**
 *Manuscript in preparation.*
 
----
-
 **Zifeng Zhang**, Peng Ding, Wen Zhou, Chenlu Shi.
 **A Duality of the F Distribution.**
 *Manuscript in preparation.*
-
----
 
 **Zifeng Zhang**, Lijun Wang, Zhiguang Huo, Peitao Wu, Yi Liu, Dacheng Liu, and Hongyu Zhao.
 **Enhancing Prognostic Accuracy in Idiopathic Pulmonary Fibrosis: A Novel Momentum Feature for Longitudinal Biomarker Analysis.**
@@ -51,8 +45,6 @@ My research focuses on developing statistical methodology and theory for problem
 
 **Zifeng Zhang**, Ye Tian, Yang Feng, and Hongyu Zhao.
 **Embedding-Assisted Elastic Net.**
-
----
 
 Jessica Magid-Bernstein, **Zifeng Zhang**, Lauren Grychowski, Beatrice Hadiwidjaja, Gracey Sorensen, Will Remillard, Alice Lidman, David Vargas, Guido J. Falcone, Kevin N. Sheth, Emily J. Gilmore, Charles Matouk, Nils Petersen, Kyle Lyman, Lena O’Keefe, Jennifer Kim, Hongyu Zhao, Lauren H. Sansing
 **Distinct Cytokine Trends Are Associated with Outcome after Aneurysmal Subarachnoid Hemorrhage.**
