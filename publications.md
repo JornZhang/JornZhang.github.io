@@ -21,23 +21,23 @@ My research focuses on developing statistical methodology and theory for problem
 
 ---
 
-### Working Papers and Manuscripts
+### Manuscripts
+
+**Zifeng Zhang**, Peng Ding, Wen Zhou, Chenlu Shi (2026).
+**A Duality of the F Distribution.**
+[[arXiv]](https://arxiv.org/abs/2610.28690)
 
 **Zifeng Zhang**, Lihua Lei, Peng Ding, and Wen Zhou.
 **Two Routes to Validity: Why Nonstandard Standard Errors Are More Robust Than You Think.**
-*Manuscript in preparation.*
+*Manuscript available.*
 
 **Zifeng Zhang**, Fan Yang, Peng Ding, and Wen Zhou.
 **High-Dimensional Mediation with Treatment--Mediator Interactions: Signal-Induced Ill-Conditioning and Inference.**
-*Manuscript in preparation.*
-
-**Zifeng Zhang**, Peng Ding, Wen Zhou, Chenlu Shi.
-**A Duality of the F Distribution.**
-*Manuscript in preparation.*
+*Manuscript available.*
 
 **Zifeng Zhang**, Lijun Wang, Zhiguang Huo, Peitao Wu, Yi Liu, Dacheng Liu, and Hongyu Zhao.
 **Enhancing Prognostic Accuracy in Idiopathic Pulmonary Fibrosis: A Novel Momentum Feature for Longitudinal Biomarker Analysis.**
-*Manuscript in preparation.*
+*Manuscript available.*
 
 ---
 
