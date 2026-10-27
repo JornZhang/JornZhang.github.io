@@ -28,7 +28,7 @@ My research focuses on developing statistical methodology and theory for problem
 [[arXiv]](https://arxiv.org/abs/2610.28690)
 
 **Zifeng Zhang**, Lihua Lei, Peng Ding, and Wen Zhou.
-**Two Routes to Validity: Why Nonstandard Standard Errors Are More Robust Than You Think.**
+**Two Routes to Validity: Why Nonstandard Standard Errors Are More Robust Than We Think.**
 *Manuscript available.*
 
 **Zifeng Zhang**, Fan Yang, Peng Ding, and Wen Zhou.
